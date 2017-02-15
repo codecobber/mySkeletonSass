@@ -75,8 +75,9 @@
 
 <!-- Standard buttons -->
 <a class="button" href="#">Anchor button</a>
-<button>Two button elements</button>
+<button>Three button elements</button>
 <input type="submit" value="submit input">
+<input type="button" value="button input">
 <input type="button" value="button input">
 
 <!-- Primary buttons -->
